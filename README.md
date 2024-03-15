@@ -1,0 +1,2 @@
+# MSCklick
+clik your mouse
